@@ -1408,7 +1408,7 @@ class_definitions = <
 			>
 			["time"] = (P_BMM_SINGLE_PROPERTY) <
 				name = <"time">
-				type = <"Iso8601_date_time">
+				type = <"DV_DATE_TIME">
 				is_mandatory = <True>
 			>
 		>
@@ -1445,7 +1445,7 @@ class_definitions = <
 		properties = <
 			["time"] = (P_BMM_SINGLE_PROPERTY) <
 				name = <"time">
-				type = <"Iso8601_time">
+				type = <"DV_TIME">
 				is_mandatory = <True>
 			>
 		>
@@ -1457,7 +1457,7 @@ class_definitions = <
 		properties = <
 			["time"] = (P_BMM_SINGLE_PROPERTY) <
 				name = <"time">
-				type = <"Iso8601_date_time">
+				type = <"DV_DATE_TIME">
 				is_mandatory = <True>
 			>
 		>
